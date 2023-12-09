@@ -1,0 +1,8 @@
+Nama   : Argyka Pratama
+NIM    : 10121175
+Kelas  : IF 5
+
+1. Jalankan perintah php artisan migrate untuk menjalankan migrasi database. Migrasi akan membuat tabel-tabel yang diperlukan dalam database Anda.
+2. Terakhir, jalankan perintah php artisan serve untuk menjalankan server pengembangan Laravel. Anda akan melihat URL lokal tempat aplikasi Laravel dijalankan, seperti http://localhost:8000. Buka URL tersebut di browser Anda untuk mengakses aplikasi Laravel.
+
+Terima Kasih! :)
